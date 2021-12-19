@@ -3,6 +3,10 @@
 ## Daily Diet Optimization 
  ### Process (Daily Diet Optimization.ipynb 파일 참고)
    1) 전단지 OCR(Text detection + Text Recognition)
+ 
+     > Text Detection: DocTr pretrained model
+     > Text Recognition: Customed CLOVA AI Text Recognition (한국어 훈련)
+ 
    2) Association Rule Discovery의 Support기반 궁합이 좋은 식재료 선별 
    3) 최적화(이진 정수계획법) 기반의 1일 식단메뉴 구성
 
