@@ -1,5 +1,9 @@
 # <딥러닝 기반의 대형마트 전단지 인식을 통한 주간메뉴 최적화> 
 
+## Crawler
+ - 레시피 데이터 (출처 [해먹남녀](https://haemukja.com/))의 크롤러
+
+
 ## Daily Diet Optimization 
  ### Process (Daily Diet Optimization.ipynb 파일 참고)
    1) 전단지 OCR(Text detection + Text Recognition)
