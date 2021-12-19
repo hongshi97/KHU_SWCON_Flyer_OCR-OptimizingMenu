@@ -18,7 +18,7 @@
 
  ### 주의사항
    1) Google Colab 기준으로 작성하였음
-   2) Daily Diet Optimization/model_weight: 모델의 weight file은 아래 링크에서 다운로드 후 폴더에 업로드
+   2) Daily Diet Optimization/model_weight: 모델의 weight file은 [링크](https://drive.google.com/file/d/1y59OB0wobNkICuw2ChvEbt9TIqRqKfmP/view?usp=sharing)에서 다운로드 후 폴더에 업로드
    3) Install packages 부분을 실행 → 런타임 다시시작 → Set Environment부터 시작
 
  
