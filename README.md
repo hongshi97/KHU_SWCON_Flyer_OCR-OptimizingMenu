@@ -4,7 +4,7 @@
  ### Process (Daily Diet Optimization.ipynb 파일 참고)
    1) 전단지 OCR(Text detection + Text Recognition)
    2) Association Rule Discovery의 Support기반 궁합이 좋은 식재료 선별 
-   3) 최적화 기반의 1일 식단메뉴 구성
+   3) 최적화(이진 정수계획법) 기반의 1일 식단메뉴 구성
 
  ### 참고사항
    1) **Daily Diet Optimization/dataset**: 2020년 한국인 1일 영양섭취기준 데이터, 레시피 데이터(출처 해먹남녀)의 데이터 경로
