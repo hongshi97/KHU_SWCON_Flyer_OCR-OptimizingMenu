@@ -55,6 +55,7 @@
 
           (1) 각 train과 test의 .lmdb데이터의 저장경로
           (2) .lmdb는 모델 훈련을 위한 데이터의 형태
+          (3) 데이터는 각 폴더에 첨부된 링크에서 다운로드
 
   4) textimagegenerator 폴더
 
