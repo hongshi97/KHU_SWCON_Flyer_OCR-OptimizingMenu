@@ -13,3 +13,6 @@
 ## Daily Diet Optimization 
  - DocTr 기반의 Text Detection Model
  - 1일 식단 최적화 최종 Process
+
+## 특이사항
+- 현재 주간 메뉴 최적화까지는 구현 못함. 1일 식단(조식/중식/석식) 최적화까지는 구현 완료 (
