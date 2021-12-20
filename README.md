@@ -11,4 +11,5 @@
  - [Paper](https://arxiv.org/abs/1904.01906)
 
 ## Daily Diet Optimization 
+ - DocTr 기반의 Text Detection Model
  - 1일 식단 최적화 최종 Process
